@@ -19,7 +19,7 @@ EXPOSE 8000
 # ENV SERVER_PORT=5000
 
 # You can run the server in development mode with
-# ENV DEVELOPMENT=1
+ENV DEVELOPMENT=1
 
 # -------- Configure application --------
 
